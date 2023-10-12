@@ -13,15 +13,15 @@ Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of pro
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/awesome-chatgpt-prompts/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
 We hope you find these prompts useful and have fun using ChatGPT!
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+**[View on GitHub](https://github.com/awesome-chatgpt-prompts/awesome-chatgpt-prompts)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+**[View on Hugging Face](https://huggingface.co/awesome-chatgpt)**
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
@@ -803,7 +803,7 @@ Contributed by [@goeksu](https://github.com/goeksu)
 
 Many thanks to these AI whisperers:
 
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
+<a href="https://github.com/awesome-chatgpt-prompts/awesome-chatgpt-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
 </a>
 
